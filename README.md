@@ -12,13 +12,11 @@ a little forge window should open, make sure "Install client" is selected.
 leave everything else default and press "OK"
 
 wait for it to install
-it might take a while because it has to download the whole
-400mb pixelmon mod
+it might take a while because it has to download the whole 400mb pixelmon mod
 
 a message should appear in the console telling you it's installed
 you can double check by seeing if the "shared" and "client" folders are empty
-if not contact me
-discord : clairnya
+if not contact me, discord : clairnya
 
 enjoy the game
 love, clair <3
